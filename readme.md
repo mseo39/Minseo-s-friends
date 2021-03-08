@@ -2,6 +2,12 @@
 
 ## <https://solved.ac/>
 
+## <https://www.acmicpc.net/>
+
+## 주소 뒤에 문제 번호만 바꿔서 하세요
+
+---
+
 ### 진도
 
 ```text
