@@ -4,7 +4,9 @@
 
 ## <https://www.acmicpc.net/>
 
-## 주소 뒤에 문제 번호만 바꿔서 하세요
+## 문제 풀때 주소 뒤에 문제 번호만 바꿔주시면 됩니다
+
+### ***vscode 기준 이 파일을 띄워놓은 후, ctrl + shift + v 를 누르면 편하게 볼 수 있습니다***
 
 ---
 
@@ -22,7 +24,7 @@
 
 ```text
 git pull
-git add -A
-git commit -am "달아줄 코멘트"
+git add -A or git add .
+git commit -m "달아줄 코멘트"
 git push
 ```
