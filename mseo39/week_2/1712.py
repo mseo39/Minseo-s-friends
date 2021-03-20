@@ -1,0 +1,5 @@
+a, b, c= input().split()
+a=int(a)
+b=int(b)
+c=int(c)
+print(-1 if b>=c else int(a/(c-b)+1))
