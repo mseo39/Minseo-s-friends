@@ -35,4 +35,5 @@ git add -A or git add .
 git commit -m "달아줄 코멘트"
 git push
 ```
-![](image/bonobono.jpg)
+
+![Alternate text](image/bonobono.jpg)
